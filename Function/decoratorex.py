@@ -23,3 +23,11 @@ print("Subtraction is :",b)
 
 for i in range(1,201):
   print(i)
+
+def nextfun():
+  yield "Hello"
+  yield "Mca"
+g=nextfun()
+print(next(g))
+print(next(g))
+
