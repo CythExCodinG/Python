@@ -1,0 +1,1 @@
+What is the diffrence between static method and class method?
