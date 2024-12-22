@@ -11,3 +11,4 @@ print(list)
 
 l1=[2,4,46,36,22,43]
 t1=tuple(l1)
+print(type(t1))
